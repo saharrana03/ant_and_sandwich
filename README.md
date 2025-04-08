@@ -1,6 +1,6 @@
 Ant and Sandwich: A Statistical and Machine Learning Analysis
 
-This mini project investigates how specific sandwich ingredients—bread type, topping, and the presence of butter—influence the number of ants attracted. The dataset consists of recorded ant counts for various sandwich configurations and serves as a foundation for both statistical evaluation and predictive modeling.
+This mini project investigates how specific sandwich ingredients bread type, topping, and the presence of butter influence the number of ants attracted. The dataset consists of recorded ant counts for various sandwich configurations and serves as a foundation for both statistical evaluation and predictive modeling.
 
 The analysis combines classical statistical techniques with modern machine learning to extract actionable insights:
 
